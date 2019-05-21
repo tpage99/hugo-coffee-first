@@ -31,6 +31,8 @@ npm install
 hugo server
 ```
 
+*if there's anything still in draft form you need to append* `-D` *to the command so that draft form items show up*
+
 ### Step 4. Be awesome
 
 😎
